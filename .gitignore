@@ -1,0 +1,7 @@
+obj/
+.vs/
+.idea/
+node_modules/
+bin
+wwwroot
+frontEnd/yarn.lock

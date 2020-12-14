@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.ag-react-container{
+    height: 100% !important;
+    display: flex;
+    align-items: center;
+}
+.ag-cell-focus{
+    border: 0px !important;
+}
+.ant-modal-content{
+    margin-top: 30px;
+}
+.ant-form-item-control-input-content{
+    .ant-input-disabled{
+        color: rgba(0, 0, 0, 0.5) !important;
+        background-color: #eee !important;
+    }
+}
+.ag-bl-overlay {
+    pointer-events: auto;
+}
+.ant-picker-suffix{
+    display: flex !important;
+}
+.header-sider-bar{
+    color: #bdad21;
+    font-family: 'Trocchi', serif;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 48px;
+    margin: 0;
+    text-shadow: 2px 2px 4px #000000;
+}
+.header-sider-bar-mobile{
+    color: #bdad21;
+    font-family: 'Trocchi', serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 48px;
+    margin: 0;
+    text-shadow: 2px 2px 4px #eee;
+}
